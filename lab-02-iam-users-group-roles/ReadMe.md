@@ -17,9 +17,9 @@ Implementing identity seperation, governance, and least-privilege access using I
 
 ### Groups
 - Admins
-  - Policy: AdministratorAccess
+  Policy: AdministratorAccess
 - Developers
-  - Policy: AmazonEC2ReadOnlyAccess
+  Policy: AmazonEC2ReadOnlyAccess
 
 ### Roles
 - CloudSecurityRole
